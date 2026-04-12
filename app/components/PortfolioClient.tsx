@@ -18,7 +18,7 @@ const t = {
     nav: { experience: "Pengalaman", skills: "Keahlian", education: "Pendidikan" },
     heroTitle: "Software Engineer",
     heroSub: "Java · Spring Boot · Microservices",
-    summary: "Software Engineer dengan 3+ tahun pengalaman membangun sistem backend di perbankan. Sehari-hari pakai Java dan Spring Boot, ngedesain microservices buat mobile banking, sistem pembayaran, dan open API. Suka kode yang bersih, senang problem solving, dan fokus bikin sesuatu yang beneran jalan.",
+    summary: "Software Engineer dengan 4+ tahun pengalaman membangun sistem backend di perbankan. Sehari-hari pakai Java dan Spring Boot, ngedesain microservices buat mobile banking, sistem pembayaran, dan open API. Suka kode yang bersih, senang problem solving, dan fokus bikin sesuatu yang beneran jalan.",
     experienceTitle: "Pengalaman",
     skillsTitle: "Keahlian",
     educationTitle: "Pendidikan",
